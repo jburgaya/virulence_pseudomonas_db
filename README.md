@@ -4,9 +4,12 @@
 
 Duplicated locustags were only included once.
 
-[ ] remove spaces from ``virulence.fasta``
-[ ] add category col in ``virulence_factors.csv``
-[ ] rule blast
-[ ] rule fetch results, add category column to results
+## ToDo
+
+* [ ] remove spaces from ``virulence.fasta``
+* [ ] remove duplicates in ``virulence_factors.csv``  
+* [ ] add category col in ``virulence_factors.csv``
+* [ ] rule blast
+* [ ] rule fetch results, add category column to results
 
 
