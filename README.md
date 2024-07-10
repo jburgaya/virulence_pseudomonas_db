@@ -12,9 +12,10 @@
 ## TODO
 
 * [x] remove spaces from ``virulence.fasta``
-* [ ] remove duplicates in ``virulence_factors.csv``  
-* [ ] add category col in ``virulence_factors.csv``
-* [ ] rule blast
-* [ ] rule fetch results, add category column to results
+* [x] remove duplicates in ``virulence_factors.csv``  
+* [x] add category col in ``virulence_factors.csv``
+* [ ] create snakemake pipeline
+  * [ ] rule blast
+  * [ ] rule fetch results, add category column to results
 
 
