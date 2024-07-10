@@ -14,8 +14,9 @@
 * [x] remove spaces from ``virulence.fasta``
 * [x] remove duplicates in ``virulence_factors.csv``  
 * [x] add category col in ``virulence_factors.csv``
-* [ ] create snakemake pipeline
-  * [ ] rule blast
-  * [ ] rule fetch results, add category column to results
+* [ ] pipeline
+  * [x] rule sample_pangenome
+  * [x] rule blast_pangenome_vag
+  * [ ] rule get_output
 
 
