@@ -1,0 +1,3 @@
+# ----- inputs ----- #
+pangenome_roary: "out/panaroo/gene_presence_absence_roary.csv"
+pangenome_genes: "out/panaroo/gene_data.csv"
