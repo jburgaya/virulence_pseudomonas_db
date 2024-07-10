@@ -1,0 +1,369 @@
+Strain	Locus Tag	Gene	Product	Source	Evidence	Evidence Ontology Term	PubMed ID	Host Organism	Host Taxonomy ID	Category	VAGs_category
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0041		probable hemagglutinin	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	probable hemagglutinin	adhesin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0044	exoT	exoenzyme T	VFDB	ECO:0000305		10603417			T3SS translocated effectors	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0051	phzH	potential phenazine-modifying enzyme	VFDB	ECO:0000305		11591691	Mus musculus	10090.0	Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0071	tagR1	TagR1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0072	tagS1	TagS1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0073	tagT1	TagT1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0074	ppkA	serine/threonine protein kinase PpkA	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0075	pppA	PppA	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0076	tagF1	TagF1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0077	icmF1	IcmF1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0078	tssL1	TssL1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0079	tssK1	TssK1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0080	tssJ1	TssJ1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0081	fha1	Fha1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0082	tssA1	TssA1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0083	tssB1	TssB1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0084	tssC1	TssC1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0085	hcp1	Hcp1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0086	tagJ1	TagJ1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0087	tssE1	TssE1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0088	tssF1	TssF1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0089	tssG1	TssG1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0090	clpV1	ClpV1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0091	vgrG1	VgrG1	VFDB	ECO:0000305		16763151			Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0151		probable TonB-dependent receptor	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0158	triC	Resistance-Nodulation-Cell Division (RND) triclosan efflux transporter, TriC	Victors	ECO:0000015		12023080	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0328	aaaA	arginine-specific autotransporter of Pseudomonas aeruginosa, AaaA	PseudoCAP	ECO:0000314		22927813	Mus musculus	10090.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0395	pilT	twitching motility protein PilT	VFDB			9224879			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0396	pilU	twitching motility protein PilU	VFDB			9224879			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0408	pilG	twitching motility protein PilG	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0409	pilH	twitching motility protein PilH	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0410	pilI	twitching motility protein PilI	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0411	pilJ	twitching motility protein PilJ	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0412	pilK	methyltransferase PilK	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0413	chpA	component of chemotactic signal transduction system	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0414	chpB	probable methylesterase	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0415	chpC	probable chemotaxis protein	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0416	chpD	probable transcriptional regulator	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0417	chpE	probable chemotaxis protein	VFDB			9224879			Type IV pili twitching motility related proteins	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0423	pasP	PasP	PseudoCAP	ECO:0000314		16186360	Oryctolagus cuniculus	9986.0	Pseudomonas aeruginosa small protease (PASP)	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0552	pgk	phosphoglycerate kinase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0584	cca	tRNA nucleotidyl transferase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0652	vfr	transcriptional regulator Vfr	PseudoCAP	ECO:0000314		14977975	Mus musculus	10090.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0690	pdtA	phosphate depletion regulated TPS partner A, PdtA	PseudoCAP	ECO:0000315		25009238	Caenorhabditis elegans	6239.0	two-partner secretion (TPS) system	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0762	algU	sigma factor AlgU	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0763	mucA	anti-sigma factor MucA	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0764	mucB	negative regulator for alginate biosynthesis MucB	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0765	mucC	positive regulator for alginate biosynthesis MucC	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0766	mucD	serine protease MucD precursor	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0844	plcH	hemolytic phospholipase C precursor	VFDB	ECO:0001175		10225897	Homo sapiens	9606.0	Hemolytic phospholipase C 	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0905	rsmA	RsmA	PseudoCAP	ECO:0000314		18025099	Mus musculus	10090.0	RsmA	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0928	gacS	sensor/response regulator hybrid	VFDB			0			GacS/GacA two-component system	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0934	relA	GTP pyrophosphokinase	Victors	ECO:0000015		15385461	Drosophila melanogaster	7227.0	Stringent Response	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA0996	pqsA	PqsA	PseudoCAP	ECO:0000315		21261818	Populus trichocarpa	3694.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1006		Protein PA1006	PseudoCAP	ECO:0000315		23409004	Mus musculus	10090.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1009		hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1077	flgB	flagellar basal-body rod protein FlgB	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1078	flgC	flagellar basal-body rod protein FlgC	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1079	flgD	flagellar basal-body rod modification protein FlgD	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1080	flgE	flagellar hook protein FlgE	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1081	flgF	flagellar basal-body rod protein FlgF	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1082	flgG	flagellar basal-body rod protein FlgG	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1083	flgH	flagellar L-ring protein precursor FlgH	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1084	flgI	flagellar P-ring protein precursor FlgI	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1085	flgJ	flagellar protein FlgJ	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1086	flgK	flagellar hook-associated protein 1 FlgK	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1087	flgL	flagellar hook-associated protein type 3 FlgL	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1092	fliC	flagellin type B	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1093		hypothetical protein	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1094	fliD	flagellar capping protein FliD	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1095		hypothetical protein	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1096		hypothetical protein	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1097	fleQ	transcriptional regulator FleQ	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1098	fleS	two-component sensor	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1099	fleR	two-component response regulator	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1100	fliE	flagellar hook-basal body complex protein FliE	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1101	fliF	Flagella M-ring outer membrane protein precursor	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1102	fliG	flagellar motor switch protein FliG	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1103		probable flagellar assembly protein	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1104	fliI	flagellum-specific ATP synthase FliI	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1105	fliJ	flagellar protein FliJ	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1130	rhlC	rhamnosyltransferase 2	VFDB			0			Rhamnolipid biosynthesis	biofilm
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1148	toxA	exotoxin A precursor	VFDB			12270928			Exototoxin A	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1157		probable two-component response regulator	Victors	ECO:0000015		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1180	phoQ	two-component sensor PhoQ	PseudoCAP	ECO:0000314		19246741	Lactuca sativa	4236.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1248	aprF	Alkaline protease secretion outer membrane protein AprF precursor	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1249	aprA	alkaline metalloproteinase precursor	VFDB			0			Alkaline protease	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1385		probable glycosyl transferase	PseudoCAP	ECO:0000315		21261818	Populus trichocarpa	3694.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1423	bdlA	BdlA	PseudoCAP	ECO:0000315		24901523	Mus musculus	10090.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1430	lasR	transcriptional regulator LasR	VFDB			0			N-(3-oxo-dodecanoyl)-L-homoserine lactone QS system	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1432	lasI	autoinducer synthesis protein LasI	VFDB			0			N-(3-oxo-dodecanoyl)-L-homoserine lactone QS system	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1441		putative flagellar hook-length control protein FliK	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1442		conserved hypothetical protein	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1443	fliM	flagellar motor switch protein FliM	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1444	fliN	flagellar motor switch protein FliN	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1445	fliO	flagellar protein FliO	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1446	fliP	flagellar biosynthetic protein FliP	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1447	fliQ	flagellar biosynthetic protein FliQ	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1448	fliR	flagellar biosynthetic protein FliR	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1449	flhB	flagellar biosynthetic protein FlhB	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1452	flhA	flagellar biosynthesis protein FlhA	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1453	flhF	flagellar biosynthesis protein FlhF	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1454	fleN	flagellar synthesis regulator FleN	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1455	fliA	sigma factor FliA	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1460	motC	MotC	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1461	motD	MotD	VFDB			14617143			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1587	lpd	dihydrolipoamide dehydrogenase Lpd	PseudoCAP	ECO:0000314		23071278	Homo sapiens	9606.0	dihydrolipoamide dehydrogenase	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1596	htpG	heat shock protein HtpG	Victors	ECO:0000015		12023080	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1656	hsiA2	HsiA2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1657	hsiB2	HsiB2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1658	hsiC2	HsiC2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1659	hsiF2	HsiF2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1660	hsiG2	HsiG2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1661	hsiH2	HsiH2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1662	clpV2	clpV2	PseudoCAP	ECO:0000315		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1663	sfa2	Sfa2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1664	orfX	OrfX	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1665	fha2	Fha2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1666	lip2	Lip2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1667	hsiJ2	HsiJ2	PseudoCAP	ECO:0000317		22665491	Homo sapiens	9606.0	Hcp secretion island-2 encoded type VI secretion system (H2-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1690	pscU	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1691	pscT	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1692		probable translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1693	pscR	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1694	pscQ	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1695	pscP	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1696	pscO	translocation protein in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1697		ATP synthase in type III secretion system	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1698	popN	Type III secretion outer membrane protein PopN precursor	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1699	pcr1	Pcr1	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1700	pcr2	Pcr2	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1701	pcr3	Pcr3	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1702	pcr4	Pcr4	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1703	pcrD	type III secretory apparatus protein PcrD	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1704	pcrR	transcriptional regulator protein PcrR	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1705	pcrG	regulator in type III secretion	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1706	pcrV	type III secretion protein PcrV	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1707	pcrH	regulatory protein PcrH	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1708	popB	translocator protein PopB	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1709	popD	Translocator outer membrane protein PopD precursor	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1710	exsC	ExsC, exoenzyme S synthesis protein C precursor.	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1711	exsE	ExsE	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1712	exsB	exoenzyme S synthesis protein B	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1713	exsA	transcriptional regulator ExsA	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1714	exsD	ExsD	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1715	pscB	type III export apparatus protein	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1716	pscC	Type III secretion outer membrane protein PscC precursor	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1717	pscD	type III export protein PscD	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1718	pscE	type III export protein PscE	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1719	pscF	type III export protein PscF	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1720	pscG	type III export protein PscG	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1721	pscH	type III export protein PscH	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1722	pscI	type III export protein PscI	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1723	pscJ	type III export protein PscJ	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1724	pscK	type III export protein PscK	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1725	pscL	type III export protein PscL	VFDB			11372029			T3SS	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1803	lon	Lon protease	PseudoCAP	ECO:0000315		23145092	Dictyostelium discoideum	44689.0	Lon protease	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1814	kerV	KerV	PseudoCAP	ECO:0000315		19779606	Arabidopsis thaliana	3702.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1863	modA	molybdate-binding periplasmic protein precursor ModA	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1871	lasA	LasA protease precursor	VFDB			11333985			LasA protease	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1899	phzA2	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1900	phzB2	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1901	phzC2	phenazine biosynthesis protein PhzC	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1902	phzD2	phenazine biosynthesis protein PhzD	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1903	phzE2	phenazine biosynthesis protein PhzE	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1904	phzF2	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1905	phzG2	probable pyridoxamine 5'-phosphate oxidase	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA1927	metE	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2023	galU	UTP--glucose-1-phosphate uridylyltransferase	Victors	ECO:0000015		15213167	Mus musculus	10090.0	LPS core region biosynthesis	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2146		conserved hypothetical protein	PseudoCAP	ECO:0000315		21261818	Hordeum vulgare	4513.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2191	exoY	adenylate cyclase ExoY	VFDB			9811898			T3SS translocated effectors	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2193	hcnA	hydrogen cyanide synthase HcnA	VFDB			0			Hydrogen cyanide production	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2194	hcnB	hydrogen cyanide synthase HcnB	VFDB			0			Hydrogen cyanide production	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2195	hcnC	hydrogen cyanide synthase HcnC	VFDB			0			Hydrogen cyanide production	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2273	soxR	SoxR	PseudoCAP	ECO:0000314		15845502	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2359		probable transcriptional regulator	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2360	hsiA3	hypothetical protein	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2361	icmF3	IcmF3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2362	dotU3	DotU3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2363	hsiJ3	HsiJ3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2364	lip3	Lip3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2365	hsiB3	HsiB3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2366	hsiC3	HsiC3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2367	hcp3	Hcp3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2368	hsiF3	HsiF3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2369	hsiG3	HsiG3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2370	hsiH3	HsiH3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2371	clpV3	ClpV3	PseudoCAP	ECO:0000315		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2372		hypothetical protein	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2373	vgrG3	VgrG3	PseudoCAP	ECO:0000317		24204589	Caenorhabditis elegans	6239.0	Hcp secretion island-3 encoded type VI secretion system (H3-T6SS)	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2385	pvdQ	3-oxo-C12-homoserine lactone acylase PvdQ	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2386	pvdA	L-ornithine N5-oxygenase	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2392	pvdP	PvdP	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2393		putative dipeptidase	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2394	pvdN	PvdN	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2395	pvdO	PvdO	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2396	pvdF	pyoverdine synthetase F	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2397	pvdE	pyoverdine biosynthesis protein PvdE	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2398	fpvA	ferripyoverdine receptor	VFDB			0			Pyoverdine receptors	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2399	pvdD	pyoverdine synthetase D	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2400	pvdJ	PvdJ	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2402	pvdI	pyoverdine peptide synthetase	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2413	pvdH	L-2,4-diaminobutyrate:2-ketoglutarate 4-aminotransferase, PvdH	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2424	pvdL	PvdL	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2425	pvdG	PvdG	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2426	pvdS	sigma factor PvdS	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2427		hypothetical protein	VFDB			0			Pyoverdine	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2462		hypothetical protein	PseudoCAP	ECO:0000315		21261818	Hordeum vulgare	4513.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2523	czcR	CzcR	PseudoCAP	ECO:0000314		22666466	Caenorhabditis elegans	6239.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2528	muxA	MuxA	PseudoCAP	ECO:0000314		21369987	Brassica pekinensis	51351.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2572		probable two-component response regulator	PseudoCAP	ECO:0000314		19170727	Galleria mellonella	7137.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2573		probable chemotaxis transducer	PseudoCAP	ECO:0000314		22870303	Galleria mellonella	7137.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2586	gacA	response regulator GacA	PseudoCAP	ECO:0000315		15727838	Bombyx mori	7091.0	GacS/GacA two-component system	secretion systems
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2634	aceA	isocitrate lyase AceA	PseudoCAP	ECO:0000315		18524916	Rattus norvegicus	10116.0	isocitrate lyase	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2639	nuoD	NADH dehydrogenase I chain C,D	Victors	ECO:0000015		14641575	Rattus norvegicus	10116.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2663	ppyR	psl and pyoverdine operon regulator, PpyR	PseudoCAP	ECO:0000315		21261818	Hordeum vulgare	4513.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2702	tse2	Tse2	PseudoCAP	ECO:0000315		20114026	Escherichia coli BL21	511693.0	Type VI secretion system translocated effectors	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2827		conserved hypothetical protein	PseudoCAP	ECO:0000314		23687271	Drosophila melanogaster	7227.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2876	pyrF	orotidine 5'-phosphate decarboxylase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	Uracil	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2895	sbrR	SbrR	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2934	cif	CFTR inhibitory factor, Cif	PseudoCAP	ECO:0000314		16236828	Homo sapiens	9606.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2950	fabV	FabV	PseudoCAP	ECO:0000314		22092819	Caenorhabditis elegans	6239.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2960	pilZ	type 4 fimbrial biogenesis protein PilZ	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2972		conserved hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA2998	nqrB	Na+-translocating NADH:ubiquinone oxidoreductase subunit Nrq2	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3001		probable glyceraldehyde-3-phosphate dehydrogenase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3115	fimV	Motility protein FimV	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3141	wbpM	nucleotide sugar epimerase/dehydratase WbpM	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3142		integrase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3143		transposase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3144		transposase with Helix-turn-helix Hin domain	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3145	wbpL	glycosyltransferase WbpL	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3146	wbpK	probable NAD-dependent epimerase/dehydratase WbpK	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3147	wbpJ	probable glycosyl transferase WbpJ	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3148	wbpI	UDP-N-acetylglucosamine 2-epimerase WbpI	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3149	wbpH	probable glycosyltransferase WbpH	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3150	wbpG	LPS biosynthesis protein WbpG	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3151	hisF2	imidazoleglycerol-phosphate synthase, cyclase subunit	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3152	hisH2	glutamine amidotransferase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3153	wzx	O-antigen translocase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3154	wzy	B-band O-antigen polymerase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3155	wbpE	UDP-2-acetamido-2-dideoxy-d-ribo-hex-3-uluronic acid transaminase, wbpE	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3156	wbpD	UDP-2-acetamido-3-amino-2,3-dideoxy-d-glucuronic acid N-acetyltransferase, WbpD	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3157		probable acetyltransferase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3158	wbpB	UDP-2-acetamido-2-deoxy-d-glucuronic acid 3-dehydrogenase, WbpB	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3159	wbpA	UDP-N-acetyl-d-glucosamine 6-Dehydrogenase	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3160	wzz	O-antigen chain length regulator	VFDB			0			LPS O-antigen (P. aeruginosa)	LPS
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3173		probable short-chain dehydrogenase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3191	gtrS	glucose transport sensor, GtrS	PseudoCAP	ECO:0000314		22262100	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3217	cyaB	CyaB	PseudoCAP	ECO:0000314		14977975	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3286		beta-acetoacetyl-acyl carrier protein synthase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3319	plcN	non-hemolytic phospholipase C precursor	VFDB			0			Non-hemolytic phospholipase C	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3350		hypothetical protein	VFDB			0			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3351	flgM	FlgM	VFDB			0			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3352		hypothetical protein	VFDB			0			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3476	rhlI	autoinducer synthesis protein RhlI	VFDB			0			N-(butanoyl)-L-homoserine lactone QS system	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3477	rhlR	transcriptional regulator RhlR	VFDB			0			N-(butanoyl)-L-homoserine lactone QS system	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3478	rhlB	rhamnosyltransferase chain B	VFDB			0			Rhamnolipid biosynthesis	biofilm
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3479	rhlA	rhamnosyltransferase chain A	VFDB			0			Rhamnolipid biosynthesis	biofilm
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3487	tle5	Tle5	VFDB	ECO:0000315		11136451	Rattus norvegicus	10116.0	Phospholipase D	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3498		probable oxidoreductase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3526	motY	MotY	VFDB			0			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3540	algD	GDP-mannose 6-dehydrogenase AlgD	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3541	alg8	alginate biosynthesis protein Alg8	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3542	alg44	alginate biosynthesis protein Alg44	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3543	algK	alginate biosynthetic protein AlgK precursor	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3544	algE	Alginate production outer membrane protein AlgE precursor	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3545	algG	alginate-c5-mannuronan-epimerase AlgG	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3546	algX	alginate biosynthesis protein AlgX	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3547	algL	poly(beta-d-mannuronate) lyase precursor AlgL	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3548	algI	alginate o-acetyltransferase AlgI	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3549	algJ	alginate o-acetyltransferase AlgJ	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3550	algF	alginate o-acetyltransferase AlgF	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3551	algA	phosphomannose isomerase / guanosine 5'-diphospho-D-mannose pyrophosphorylase	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3649	mucP	MucP	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3724	lasB	elastase LasB	VFDB			0			Elastase	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3735	thrC	threonine synthase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3756		hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3763	purL	phosphoribosylformylglycinamidine synthase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3805	pilF	type 4 fimbrial biogenesis protein PilF	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3826		hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3831	pepA	leucine aminopeptidase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0	PepA	PepA
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3841	exoS	exoenzyme S	VFDB			0			T3SS translocated effectors	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA3876	narK2	nitrite extrusion protein 2	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4033	mucE	MucE	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4108		cyclic di-GMP phosphodiesterase	PseudoCAP	ECO:0000314		19170727	Galleria mellonella	7137.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4109	ampR	transcriptional regulator AmpR	PseudoCAP	ECO:0000315		22479525	Caenorhabditis elegans	6239.0	AmpR	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4115		conserved hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4150		probable dehydrogenase E1 component	PseudoCAP	ECO:0000315		21261818	Hordeum vulgare	4513.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4175	piv	protease IV	VFDB			0			Protease IV	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4197	bfiS	BfiS	PseudoCAP	ECO:0000314		20656909	Lactuca sativa	4236.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4209	phzM	probable phenazine-specific methyltransferase	PseudoCAP	ECO:0000315		15213173	Mus musculus	10090.0	Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4210	phzA1	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4211	phzB1	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4212	phzC1	phenazine biosynthesis protein PhzC	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4213	phzD1	phenazine biosynthesis protein PhzD	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4214	phzE1	phenazine biosynthesis protein PhzE	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4215	phzF1	probable phenazine biosynthesis protein	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4216	phzG1	probable pyridoxamine 5'-phosphate oxidase	VFDB			0			Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4217	phzS	flavin-containing monooxygenase	PseudoCAP	ECO:0000315		15213173	Mus musculus	10090.0	Phenazine biosynthesis	toxin
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4221	fptA	Fe(III)-pyochelin outer membrane receptor precursor	VFDB			0			Pyochelin receptor	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4222		probable ATP-binding component of ABC transporter	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4223		probable ATP-binding component of ABC transporter	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4224	pchG	pyochelin biosynthetic protein PchG	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4225	pchF	pyochelin synthetase	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4226	pchE	dihydroaeruginoic acid synthetase	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4227	pchR	transcriptional regulator PchR	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4228	pchD	pyochelin biosynthesis protein PchD	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4229	pchC	pyochelin biosynthetic protein PchC	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4230	pchB	salicylate biosynthesis protein PchB	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4231	pchA	salicylate biosynthesis isochorismate synthase	VFDB			0			Pyochelin	siderophores
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4295	fppA	Flp prepilin peptidase A, FppA	PseudoCAP	ECO:0000315		21261818	Populus trichocarpa	3694.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4446	algW	AlgW protein	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4488	magE	MagE	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4489	magD	MagD	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4491	magB	MagB	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4525	pilA	type 4 fimbrial precursor PilA	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4526	pilB	type 4 fimbrial biogenesis protein PilB	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4528	pilD	type 4 prepilin peptidase PilD	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4541	lepA	Pseudomonas aeruginosa-derived large extracellular protease, LepA	PseudoCAP	ECO:0000315		21041488	Mus musculus	10090.0	Pseudomonas aeruginosa-derived large extracellular protease, LepA	protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4546	pilS	two-component sensor PilS	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4547	pilR	two-component response regulator PilR	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4549	fimT	type 4 fimbrial biogenesis protein FimT	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4550	fimU	type 4 fimbrial biogenesis protein FimU	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4551	pilV	type 4 fimbrial biogenesis protein PilV	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4552	pilW	type 4 fimbrial biogenesis protein PilW	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4553	pilX	type 4 fimbrial biogenesis protein PilX	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4554	pilY1	type 4 fimbrial biogenesis protein PilY1	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4555	pilY2	type 4 fimbrial biogenesis protein PilY2	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4556	pilE	type 4 fimbrial biogenesis protein PilE	VFDB			0			Type IVa pili	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4564		conserved hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4692		conserved hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4725	cbrA	two-component sensor CbrA	PseudoCAP	ECO:0000314		24379284	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4764	fur	ferric uptake regulation protein	Victors	ECO:0000015		7642283	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4781		cyclic di-GMP phosphodiesterase	PseudoCAP	ECO:0000314		19170727	Galleria mellonella	7137.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4854	purH	phosphoribosylaminoimidazolecarboxamide formyltransferase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4855	purD	phosphoribosylamine--glycine ligase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4856	retS	RetS (Regulator of Exopolysaccharide and Type III Secretion)	PseudoCAP	ECO:0000314		15522089	Homo sapiens	9606.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4887		probable major facilitator superfamily (MFS) transporter	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4944	hfq	Hfq	Victors	ECO:0000015		14521880	Galleria mellonella	7137.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4953	motB	chemotaxis protein MotB	VFDB			10768936			Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA4954	motA	chemotaxis protein MotA	VFDB	ECO:0000250		10768936	Mus musculus	10090.0	Flagella	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5017	dipA	DipA	PseudoCAP	ECO:0000315		24901523	Mus musculus	10090.0	Not available / Not known	other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5018	msrA	peptide methionine sulfoxide reductase	PseudoCAP	ECO:0000314		23687271	Drosophila melanogaster	7227.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5040	pilQ	Type 4 fimbrial biogenesis outer membrane protein PilQ precursor	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5041	pilP	type 4 fimbrial biogenesis protein PilP	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5042	pilO	type 4 fimbrial biogenesis protein PilO	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5043	pilN	type 4 fimbrial biogenesis protein PilN	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5044	pilM	type 4 fimbrial biogenesis protein PilM	VFDB			0			Type IV pili biosynthesis	surface appendages
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5078	opgG	OpgG	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5112	estA	esterase EstA	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5117	typA	regulatory protein TypA	PseudoCAP	ECO:0000314		23570569	Caenorhabditis elegans	6239.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5131	pgm	phosphoglycerate mutase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5134	ctpA	carboxyl-terminal processing protease, CtpA	PseudoCAP	ECO:0000314		24082078	Cricetulus griseus	10029.0		protease
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5253	algP	alginate regulatory protein AlgP	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5255	algQ	Alginate regulatory protein AlgQ	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5261	algR	alginate biosynthesis regulatory protein AlgR	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5262	fimS	FimS	VFDB			0			Alginate regulation	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5272	cyaA	adenylate cyclase	PseudoCAP	ECO:0000314		14977975	Mus musculus	10090.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5312	pauC	Aldehyde dehydrogenase	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5322	algC	phosphomannomutase AlgC	VFDB			0			Alginate biosynthesis	exopolysaccharide
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5327	sphC	SphC	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5338	spoT	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	PseudoCAP	ECO:0000316		21788391	Drosophila melanogaster	7227.0	Stringent Response	quorum sensing
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5344	oxyR	OxyR	PseudoCAP	ECO:0000314		15784603	Drosophila melanogaster	7227.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5437		probable transcriptional regulator	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5441		hypothetical protein	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5449	wbpX	glycosyltransferase WbpX	Victors	ECO:0000315		14641575	Rattus norvegicus	10116.0		other
+Pseudomonas aeruginosa PAO1 (Stover et al., 2000)	PA5531	tonB1	TonB1	PseudoCAP	ECO:0000314		10899848	Mus musculus	10090.0		other
