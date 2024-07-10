@@ -4,7 +4,7 @@
 
 Duplicated locustags were only included once.
 
-## ToDo
+## TODO
 
 * [ ] remove spaces from ``virulence.fasta``
 * [ ] remove duplicates in ``virulence_factors.csv``  
