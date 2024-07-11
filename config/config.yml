@@ -1,5 +1,12 @@
 
-# ----- inputs ----- #
+# ----- params ----- #
+virlist: "virulence.csv"
 
-samples: "samples.txt" # list of sample names without extension or path
-fastas: "test/" # path to fastas
+# ----- inputs ----- #
+# list of sample names without extension or path
+samples: "samples.txt"
+# path to fastas
+fastas: "test/"
+
+# ----- outputs ----- #
+blastdir: "out/blast/"

@@ -2,6 +2,7 @@ from snakemake.utils import validate
 import pandas as pd
 import os
 
+
 # ----- load config file ----- #
 
 configfile: "config/config.yml"
@@ -12,26 +13,34 @@ def _read_samples(infile):
   m = pd.read_csv(infile, sep='\t', index_col=0, header=None)
   return set(m.index)
 
-# ----- start execution of the rules ----- #
-
 samples = _read_samples(config["samples"])
 
-rule blastn:
+# ----- start execution of the rules ----- #
+
+rule run_blastn:
   input:
     expand("out/blast/{sample}.txt", sample=samples)
 
-rule run_blastn:
+rule blastn:
   input:
     query="db/virulence.fasta",
     nucl=lambda wildcards: config["fastas"] + wildcards.sample + ".fna"
   output:
-    "out/blast/{sample}.txt"
+    blast="out/blast/{sample}.txt"
   threads: 4
   log: "out/logs/blast_{sample}.log"
   conda: "envs/blast.yml"
   shell:
     """
-    blastn -query {input.query} -out {output} -subject {input.nucl} -outfmt "6 qseqid sseqid pident qlen slen length nident"
+    blastn -query {input.query} -subject {input.nucl} -out {output.blast} -outfmt "6 qseqid sseqid pident qlen slen length nident"
     """
 
-
+rule summary:
+  input:
+      blastdir=config["blastdir"],
+      vir=config["virlist"]
+  log: "out/logs/summary.log"
+  shell:
+    """
+    python workflow/scripts/blast_output.py {input.blastdir} {input.vir}
+    """
