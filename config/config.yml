@@ -1,3 +1,5 @@
+
 # ----- inputs ----- #
-pangenome_roary: "out/panaroo/gene_presence_absence_roary.csv"
-pangenome_genes: "out/panaroo/gene_data.csv"
+
+samples: "samples.txt" # list of sample names without extension or path
+fastas: "test/" # path to fastas
