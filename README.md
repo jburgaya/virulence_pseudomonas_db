@@ -10,6 +10,12 @@
 
 ## Usage
 
+Edit inputs in ``config/config.yml`` file:
+* samples: path to file with a list of sample names withput extension or path.
+* fastas: path to the fastas directory
+
+Then, run snakemake as:
+
 ``snakemake --use-conda --cores 4 -p -R run_blastn summary``
 
 ## Outputs
