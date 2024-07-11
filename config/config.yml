@@ -4,7 +4,7 @@ virlist: "virulence.csv"
 
 # ----- inputs ----- #
 # list of sample names without extension or path
-samples: "samples.txt"
+samples: "samples_test.txt"
 # path to fastas
 fastas: "test/"
 
