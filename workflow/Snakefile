@@ -2,35 +2,36 @@ from snakemake.utils import validate
 import pandas as pd
 import os
 
+# ----- load config file ----- #
+
 configfile: "config/config.yml"
+
+# ----- define functions ----- #
+
+def _read_samples(infile):
+  m = pd.read_csv(infile, sep='\t', index_col=0, header=None)
+  return set(m.index)
 
 # ----- start execution of the rules ----- #
 
-rule sample_pangenome:
-  input:
-    pangenome=config["pangenome_roary"],
-    genes=config["pangenome_genes"]
-  output:
-    "out/sample_nuc.faa"
-  threads: 4
-  conda: "envs/eggnog-mapper.yml"
-  log: "out/logs/sample_nuc.log"
-  shell:
-    """
-    python workflow/scripts/sample_pangenome.py {input.pangenome} {input.genes} \
-           --nucleotide > {output}
-    """
+samples = _read_samples(config["samples"])
 
-rule blast_pangenome_vags:
+rule blastn:
+  input:
+    expand("out/blast/{sample}.txt", sample=samples)
+
+rule run_blastn:
   input:
     query="db/virulence.fasta",
-    nucl="out/sample_nuc.faa"
+    nucl=lambda wildcards: config["fastas"] + wildcards.sample + ".fna"
   output:
-    "out/sample.blast.txt"
+    "out/blast/{sample}.txt"
   threads: 4
-  log: "out/logs/blast.log"
+  log: "out/logs/blast_{sample}.log"
   conda: "envs/blast.yml"
   shell:
     """
     blastn -query {input.query} -out {output} -subject {input.nucl} -outfmt "6 qseqid sseqid pident qlen slen length nident"
     """
+
+
