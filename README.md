@@ -12,6 +12,11 @@
 
 ``snakemake --use-conda --cores 4 -p -R run_blastn summary``
 
+## Outputs
+``{sample}.txt`` : direct output from blast
+``{sample}_filtered.txt`` : filtered {sample}.txt based on minimum identity (default=90)
+``summary_{categ, gene, locustag}.tsv`` : tab separated files, with {sample} as rows, and the {categ, gene, locustag} as columns (1:presence, 0:absence) 
+
 ## TODO
 
 * [x] remove spaces from ``virulence.fasta``
