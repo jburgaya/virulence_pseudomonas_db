@@ -8,15 +8,17 @@
 
 ``db/virulence.fasta``: contains all DNA sequences for the virulence associated genes.
 
+## Usage
+
+``snakemake --use-conda --cores 4 -p -R run_blastn summary``
 
 ## TODO
 
 * [x] remove spaces from ``virulence.fasta``
 * [x] remove duplicates in ``virulence_factors.csv``  
 * [x] add category col in ``virulence_factors.csv``
-* [ ] pipeline
-  * [x] rule sample_pangenome
-  * [x] rule blast_pangenome_vag
-  * [ ] rule get_output
+* [x] pipeline
+  * [x] rule blastn: blast virulence db to a set of fasta files.
+  * [x] rule summary: get summary tables for genes, vag categories and locus tags
 
 
